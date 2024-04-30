@@ -24,19 +24,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Only-Menus</h3>
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Only Menus</h3>
 
   <p align="center">
-    A Django-based platform for crowdsourced menus
+    A Django-based platform for crowd-sourced menus
     <br />
-    <a href="https://github.com/cupid-22/only-menus"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/cupid-22/only-menus">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/cupid-22/only-menus/issues">Report Bug</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/cupid-22/only-menus/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
